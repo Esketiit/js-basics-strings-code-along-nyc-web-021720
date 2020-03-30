@@ -1,2 +1,3 @@
 // Write your code in this file!
-currentUser = "Brian Desplantes"
+currentUser = "Brian Desplantes";
+welcomeMessage = ""
