@@ -1,3 +1,3 @@
 // Write your code in this file!
 currentUser = "Brian Desplantes";
-welcomeMessage = ""
+welcomeMessage = "Welcome to Facebook"
